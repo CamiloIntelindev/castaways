@@ -1,0 +1,17 @@
+# Node
+node_modules/
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# WordPress build artifacts
+wp-content/uploads/
+
+# Editor/OS
+.vscode/
+.idea/
+
+# Misc
+*.swp
